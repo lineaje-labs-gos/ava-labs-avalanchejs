@@ -1,6 +1,6 @@
 {
   "name": "avalanche",
-  "version": "3.16.0",
+  "version": "3.16.0-lineaje-01",
   "description": "Avalanche Platform JS Library",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ava-labs/avalanchejs.git"
+    "url": "https://github.com/lineaje-labs-gos/ava-labs-avalanchejs"
   },
   "keywords": [
     "Avalanche",
@@ -31,7 +31,11 @@
     "Paul Kim <paul.kim@avalabs.org>",
     "Raj Ranjan <raj.ranjan@avalabs.org>",
     "Gergely Lovas <gergely.lovas@avalabs.org>",
-    "Dhruba Basu <dhruba@avalabs.org>"
+    "Dhruba Basu <dhruba@avalabs.org>",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "license": "BSD-3-Clause",
   "bugs": {
